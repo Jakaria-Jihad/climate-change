@@ -23,7 +23,13 @@ const newspapers = [
     },
     {
         name: 'thedailystar',
-        address: 'https://www.thedailystar.net/environment/climate-change/'
+        address: 'https://www.thedailystar.net/environment/climate-change/',
+        base: ''
+    },
+    {
+        name: 'theindependent',
+        address: 'https://www.theindependentbd.com/online/environment',
+        base: ''
     }
 ]
 
